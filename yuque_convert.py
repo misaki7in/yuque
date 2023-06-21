@@ -1,7 +1,6 @@
 import os
 import re
 import requests
-import shutil
 import glob
 
 def mkdir(file_path):
